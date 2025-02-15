@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a senior student at SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University. I major in French and minor in Information Engineering.
+I'm currently a senior student at <a href='https://speit.sjtu.edu.cn/en'>SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University</a>. I major in French and minor in Information Engineering.
 
-My research interests include robotics, computer vision, robotic manipulation and locomotion.
+My research interests include robotic manipulation and locomotion, computer vision.
 
 This personal website is yet to be completed.
