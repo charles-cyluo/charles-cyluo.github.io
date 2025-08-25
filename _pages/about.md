@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a senior student at <a href='https://speit.sjtu.edu.cn/en'>SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University</a>. I major in French and minor in Information Engineering.
+I received my bachelor's degree from the <a href='https://speit.sjtu.edu.cn/en'>SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University</a>, majoring in French with a minor in Information Engineering.
+
+I have been admitted to the <a href='https://mscac.utoronto.ca/'>Master of Science in Applied Computing (MScAC) program at the University of Toronto</a>, with a concentration in Artificial Intelligence. However, my enrollment has been delayed due to study permit application issues.
 
 My research interests include robotic manipulation and locomotion, computer vision.
-
-This personal website is yet to be completed.

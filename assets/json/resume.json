@@ -6,7 +6,7 @@
     "email": "luo_cy@sjtu.edu.cn",
     "phone": "",
     "url": "https://nicklcy.github.io",
-    "summary": "Senior Student at SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University",
+    "summary": "Senior Student at SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University (Graduated)",
     "location": {
       "address": "",
       "postalCode": "",
@@ -38,7 +38,7 @@
       "institution": "Shanghai Jiao Tong University",
       "location": "Shanghai, China",
       "url": "https://www.sjtu.edu.cn/",
-      "area": "French and Information Engineering",
+      "area": "French (major) and Information Engineering (minor)",
       "studyType": "Bachelor's Degree",
       "startDate": "2024-08",
       "endDate": "2025-06",
@@ -74,6 +74,13 @@
       "releaseDate": "2025-02-06",
       "url": "https://arxiv.org/abs/2502.04531",
       "summary": "Object placement in robotic tasks is inherently challenging due to the diversity of object geometries and placement configurations. To address this, we propose AnyPlace, a two-stage method trained entirely on synthetic data, capable of predicting a wide range of feasible placement poses for real-world tasks."
+    },
+    {
+      "name": "GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-08-13",
+      "url": "https://arxiv.org/abs/2508.09960",
+      "summary": "The creation of human-like humanoid robots is hindered by a fundamental fragmentation: data processing and learning algorithms are rarely universal across different robot morphologies. This paper introduces the Generalized Behavior Cloning (GBC) framework, a comprehensive and unified solution designed to solve this end-to-end challenge. This work establishes the first practical and unified pathway for creating truly generalized humanoid controllers."
     }
   ],
   "skills": [
@@ -111,12 +118,12 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (TOEFL 117)",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "Intermediate",
+      "fluency": "Intermediate (DELF B2)",
       "icon": ""
     }
   ],
