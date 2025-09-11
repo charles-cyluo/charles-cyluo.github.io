@@ -6,7 +6,7 @@
     "email": "luo_cy@sjtu.edu.cn",
     "phone": "",
     "url": "https://nicklcy.github.io",
-    "summary": "Senior Student at SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University (Graduated)",
+    "summary": "Incoming master's student to University of Toronto, previously undergraduate student at Shanghai Jiao Tong University (graduated)",
     "location": {
       "address": "",
       "postalCode": "",
@@ -52,6 +52,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Outstanding Graduate",
+      "date": "2025-06",
+      "awarder": "Shanghai Jiao Tong University",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "Dean's Scholarship",
       "date": "2023-09",

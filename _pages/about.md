@@ -28,4 +28,4 @@ I received my bachelor's degree from the <a href='https://speit.sjtu.edu.cn/en'>
 
 I have been admitted to the <a href='https://mscac.utoronto.ca/'>Master of Science in Applied Computing (MScAC) program at the University of Toronto</a>, with a concentration in Artificial Intelligence. However, my enrollment has been delayed due to study permit application issues.
 
-My research interests include robotic manipulation and locomotion, computer vision.
+My research interests include computer vision and embodied intelligence, robotic manipulation and locomotion.
