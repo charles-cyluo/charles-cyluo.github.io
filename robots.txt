@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://nicklcy.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://charles-cyluo.github.io/sitemap.xml
