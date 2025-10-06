@@ -1,9 +1,9 @@
 github_users:
-  - nicklcy
+  - charles-cyluo
 
 repo_description_lines_max: 2
 
 github_repos:
-  - nicklcy/optimisation-projet
-  - nicklcy/dotfiles
-  - nicklcy/icpc-template
+  - ac-rad/anyplace
+  - sjtu-mvasl-robotics/GBC
+  - charles-cyluo/dotfiles

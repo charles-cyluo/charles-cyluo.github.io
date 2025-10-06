@@ -5,7 +5,7 @@
     "image": "",
     "email": "luo_cy@sjtu.edu.cn",
     "phone": "",
-    "url": "https://nicklcy.github.io",
+    "url": "https://charles-cyluo.github.io",
     "summary": "Incoming master's student to University of Toronto, previously undergraduate student at Shanghai Jiao Tong University (graduated)",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "nicklcy",
-        "url": "https://github.com/nicklcy"
+        "username": "charles-cyluo",
+        "url": "https://github.com/charles-cyluo"
       }
     ]
   },
@@ -141,7 +141,7 @@
       "highlights": ["Optimization", "Differentiable Physics Simulator"],
       "startDate": "2024-02",
       "endDate": "2024-04",
-      "url": "https://github.com/nicklcy/optimisation-projet"
+      "url": "https://github.com/charles-cyluo/optimisation-projet"
     },
     {
       "name": "AI player for the Othello game",
