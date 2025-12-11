@@ -167,8 +167,8 @@ Publications
 --------------
 <div class="publication-card featured">
   <div style="display: flex; align-items: center;">
-    <div style="margin-right: 20px;">
-      <img src="assets/imgs/gbc-preview.png" alt="GBC" width="1000" height="100" class="lightbox-image">
+    <div width="20%" style="margin-right: 20px;">
+      <img src="assets/imgs/pubs/gbc-preview.png" alt="GBC" width="100%" class="lightbox-image">
     </div>
     <div>
       <strong>GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation</strong><br>
@@ -192,9 +192,10 @@ Publications
 
 <div class="publication-card featured">
   <div style="display: flex; align-items: center;">
-    <div style="margin-right: 20px;">
-      <img src="https://any-place.github.io/static/images/main.png" alt="AnyPlace" width="200" height="100" class="lightbox-image">
-      <img src="https://any-place.github.io/static/images/arch.png" alt="AnyPlace" width="200" height="100" class="lightbox-image">
+    <div width="20%" style="margin-right: 20px;">
+      <img src="assets/imgs/pubs/anyplace-main.png" alt="AnyPlace" width="100%" class="lightbox-image">
+      <br>
+      <img src="assets/imgs/pubs/anyplace-arch.png" alt="AnyPlace" width="100%" class="lightbox-image">
     </div>
     <div>
       <strong>AnyPlace: Learning Generalized Object Placement for Robot Manipulation</strong><br>
