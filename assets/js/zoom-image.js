@@ -29,13 +29,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     images.forEach((img, index) => {
         const src = img.src;
+        const lightboxSrc = img.dataset.lightboxSrc || src;
         const alt = img.alt;
         const width = img.width;
         const height = img.height;
 
         // Create a wrapper link
         const link = document.createElement('a');
-        link.href = src;
+        link.href = lightboxSrc;
         link.dataset.lightbox = `gallery-${index}`;
         link.style.display = 'inline-block';
 
@@ -47,6 +48,8 @@ document.addEventListener('DOMContentLoaded', function() {
         newImg.height = height;
         newImg.style.cursor = 'zoom-in';
         newImg.style.transition = 'transform 0.2s';
+        newImg.style.width = '100%';
+        newImg.style.display = 'block';
         newImg.onmouseover = () => newImg.style.transform = 'scale(1.02)';
         newImg.onmouseout = () => newImg.style.transform = 'scale(1)';
 

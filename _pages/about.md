@@ -91,12 +91,12 @@ redirect_from:
             text-align: center;
             color: #209fb5;
         }
-        div.markdown-body a,a {
+        .highlight {
+            display: inline !important;
             text-decoration: none !important;
             color: #209fb5;
-            transition: all 0.3s ease; /* 平滑过渡效果 */
         }
-        div.markdown-body b,b {
+        div.markdown-body a,a {
             text-decoration: none !important;
             color: #209fb5;
             transition: all 0.3s ease; /* 平滑过渡效果 */
@@ -167,8 +167,8 @@ Publications
 --------------
 <div class="publication-card featured">
   <div style="display: flex; align-items: center;">
-    <div width="20%" style="margin-right: 20px;">
-      <img src="assets/imgs/pubs/gbc-preview.png" alt="GBC" width="100%" class="lightbox-image">
+    <div style="width: 500px; box-sizing: border-box; margin-right: 20px;">
+      <img src="assets/imgs/pubs/gbc-preview.png" data-lightbox-src="assets/imgs/pubs/gbc.png" alt="GBC" class="lightbox-image">
     </div>
     <div>
       <strong>GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation</strong><br>
@@ -192,10 +192,10 @@ Publications
 
 <div class="publication-card featured">
   <div style="display: flex; align-items: center;">
-    <div width="20%" style="margin-right: 20px;">
-      <img src="assets/imgs/pubs/anyplace-main.png" alt="AnyPlace" width="100%" class="lightbox-image">
+    <div style="width: 500px; box-sizing: border-box; margin-right: 20px;">
+      <img src="assets/imgs/pubs/anyplace-main-preview.png" data-lightbox-src="assets/imgs/pubs/anyplace-main.png" alt="AnyPlace" class="lightbox-image">
       <br>
-      <img src="assets/imgs/pubs/anyplace-arch.png" alt="AnyPlace" width="100%" class="lightbox-image">
+      <img src="assets/imgs/pubs/anyplace-arch-preview.png" data-lightbox-src="assets/imgs/pubs/anyplace-arch.png" alt="AnyPlace" class="lightbox-image">
     </div>
     <div>
       <strong>AnyPlace: Learning Generalized Object Placement for Robot Manipulation</strong><br>
@@ -227,15 +227,15 @@ Awards
 --------
 
 **Scholarships**:
-- <b>Outstanding Graduate</b>, Shanghai Jiao Tong University, 2025
-- <b>Academic Scholarship (First Prize)</b> (1/46), SJTU-Paris Elite Institute of Technology, November 2024
-- <b>Dean's Scohlarship</b> (1/73), SJTU-Paris Elite Institute of Technology, September 2023
+- <span class="highlight">Outstanding Graduate</span>, Shanghai Jiao Tong University, 2025
+- <span class="highlight">Academic Scholarship (First Prize)</span> (1/46), SJTU-Paris Elite Institute of Technology, November 2024
+- <span class="highlight">Dean's Scohlarship</span> (1/73), SJTU-Paris Elite Institute of Technology, September 2023
 
 **Awards**:
-- <b>Meritorious Winner</b> in COMAP's Mathematical Contest in Modeling, May 2023
-- <b>Gold Medal</b> (rank 15/641) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Nanjing Site, December 2021
-- <b>Gold Medal</b> (rank 13/632) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Shanghai Site, November 2021
-- <b>Gold Medal</b> (rank 18) in CCF National Olympiad in Informatics Winter Camp (NOI WC), August 2020
+- <span class="highlight">Meritorious Winner</span> in COMAP's Mathematical Contest in Modeling, May 2023
+- <span class="highlight">Gold Medal</span> (rank 15/641) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Nanjing Site, December 2021
+- <span class="highlight">Gold Medal</span> (rank 13/632) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Shanghai Site, November 2021
+- <span class="highlight">Gold Medal</span> (rank 18) in CCF National Olympiad in Informatics Winter Camp (NOI WC), August 2020
 
 
 Projects
