@@ -2,19 +2,7 @@
 
 main:
   - title: "Publications"
-    url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=TUVYCcIAAAAJ"
+    url: "https://scholar.google.com/citations?user=9o3QM9IAAAAJ"
 
-  # - title: "CV-En"
-  #   url: /files/selen_resume.pdf
-    
-  # - title: "CV-Cn"
-  #   url:   /files/chinese_resume.pdf  
-
-  - title: "Blogs"
-    url: "https://selen-suyue.github.io/biosite/"  
-    
-  # - title: "Slide"
-  #   url: /files/selenslide.pdf
-
-  - title: "Demos"
-    url: https://www.youtube.com/@SelenSu-j6h
+  - title: "Resume"
+    url: /assets/files/Chengyuan_Luo_resume.pdf
