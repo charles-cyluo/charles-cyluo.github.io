@@ -1,0 +1,102 @@
+/* The colorscheme is mostly taken from Catppuccin, with Latte for foreground and Frappé for background */
+
+.main-heading {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  color: #209fb5;
+}
+
+.highlight {
+  display: inline !important;
+  text-decoration: none !important;
+  color: #209fb5;
+}
+
+.experience-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+
+  .card {
+    display: flex;
+    align-items: center;
+    background: #f9f9f9;
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    box-sizing: border-box;
+    transition: transform 0.3s, box-shadow 0.3s;
+
+    hover {
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    }
+
+    .logo {
+      width: 60px;
+      height: 60px;
+      margin-right: 20px;
+      border-radius: 8px;
+      object-fit: contain;
+    }
+
+    .info {
+      font-family: "Segoe UI", sans-serif;
+
+      strong {
+        font-size: 1.1em;
+      }
+
+      a {
+        text-decoration: none;
+        color: #179299;
+      }
+    }
+
+  }
+}
+
+.publication-card {
+  display: flex;
+  align-items: center;
+  padding: 3px;
+  border: 1.5px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  hover {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  }
+
+  .image-preview {
+    width: 500px;
+    box-sizing: border-box;
+    margin-right: 20px;
+  }
+
+  .author-names {
+    font-size: 0.9em;
+
+    .myself {
+      text-decoration: underline !important;
+    }
+  }
+
+  .conference {
+    color: #7287fd;
+  }
+}
+
+.publication-card.featured {
+  border-color: #209fb5;     /* 更浅的浅蓝色色边框 */
+  background: #ebf5f9;     /* 非常浅的浅蓝色背景 */
+  box-shadow: 0 4px 8px rgba(133, 193, 220, 0.2); /* 更柔和的初始阴影 */
+  z-index: 10;
+
+  hover {
+    box-shadow: 0 8px 16px rgba(133, 193, 220, 0.6);
+  }
+}

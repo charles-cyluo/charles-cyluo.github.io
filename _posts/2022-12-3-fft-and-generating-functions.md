@@ -2,6 +2,7 @@
 title: 'Lecture on FFT and GFs'
 date: 2022-12-3
 permalink: /posts/2022/12/fft-gfs/
+excerpt: Slides for Fast-Fourier Transform and Applications of Generating Functions
 tags:
   - competitive programming
   - olympiad in informatics

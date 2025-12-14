@@ -1,0 +1,12 @@
+.page__content, .archive {
+  a {
+    text-decoration: none !important;
+    color: #209fb5 !important;
+    transition: all 0.3s ease; /* 平滑过渡效果 */
+  
+    &:hover {
+      text-decoration: underline !important;
+      color: #7287fd !important;      /* 悬浮时变深一点的颜色 */
+    }
+  }
+}

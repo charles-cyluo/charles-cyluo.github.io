@@ -31,6 +31,10 @@
     .page__share {
       @include full();
     }
+
+    .page__date {
+      font-size: $type-size-5;
+    }
   }
 }
 
@@ -56,7 +60,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: $type-size-5;
   }
 
   /* paragraph indents */
