@@ -36,7 +36,32 @@ html, body, .masthead, .greedy-nav, .page__footer {
 
     .hidden-links {
       right: 3rem;
+      background: $catppuccin-base !important;
+      border-color: $catppuccin-base !important;
+
+      &:before, &:after {
+        color: $catppuccin-base !important;
+        border-color: $catppuccin-base transparent !important;
+      }
+
+      li {
+        border-bottom: none;
+      }
+
+      a::hover {
+          background: $catppuccin-mantle !important;
+      }
     }
+  }
+
+  button {
+    background-color: $catppuccin-mantle !important;
+  }
+  .navicon, .navicon::before, .navicon::after {
+    background: $catppuccin-text;
+  }
+  .close .navicon {
+    background: $catppuccin-mantle;
   }
 
   #theme-toggle {
@@ -66,5 +91,16 @@ html, body, .masthead, .greedy-nav, .page__footer {
       border-color: $catppuccin-sapphire;
       color: $catppuccin-sapphire;
     }
+  }
+}
+
+.btn--inverse {
+  color: $catppuccin-text !important;
+  background-color: $catppuccin-base !important;
+  border-color: mix($catppuccin-text, $catppuccin-base, 50%) !important;
+
+  &:hover {
+    color: $catppuccin-base !important;
+    background-color: $catppuccin-text !important;
   }
 }
