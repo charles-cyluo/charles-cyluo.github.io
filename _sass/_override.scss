@@ -1,12 +1,22 @@
+html, body, .masthead, .greedy-nav, .page__footer {
+  background-color: $catppuccin-base !important;
+}
+
+.greedy-nav {
+  a {
+    color: $text-color !important;
+  }
+}
+
 .page__content, .archive {
   a {
     text-decoration: none !important;
-    color: #209fb5 !important;
+    color: $catppuccin-sapphire !important;
     transition: all 0.3s ease; /* 平滑过渡效果 */
   
     &:hover {
       text-decoration: underline !important;
-      color: #7287fd !important;      /* 悬浮时变深一点的颜色 */
+      color: $catppuccin-lavender !important;      /* 悬浮时变深一点的颜色 */
     }
   }
 }

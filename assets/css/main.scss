@@ -12,6 +12,9 @@
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
+
+@import "override_variables";  // custom variable overrides
+
 @import "mixins";
 @import "vendor/susy/susy";
 
