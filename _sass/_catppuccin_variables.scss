@@ -1,0 +1,49 @@
+// Catppuccin color variables based on theme
+// Available themes: latte, frappe, macchiato, mocha
+// Default theme is set via $theme variable (should be defined before importing this file)
+$theme: 'latte' !default;
+
+// Default values (latte theme)
+$catppuccin-text: #4c4f69;
+$catppuccin-base: #eff1f5;
+$catppuccin-mantle: #e6e9ef;
+$catppuccin-sapphire: #209fb5;
+$catppuccin-teal: #179299;
+$catppuccin-lavender: #7287fd;
+$catppuccin-sky: #04a5e5;
+
+@if $theme == 'latte' {
+  $catppuccin-text: #4c4f69;
+  $catppuccin-base: #eff1f5;
+  $catppuccin-mantle: #e6e9ef;
+  $catppuccin-sapphire: #209fb5;
+  $catppuccin-teal: #179299;
+  $catppuccin-lavender: #7287fd;
+  $catppuccin-sky: #04a5e5;
+} @else if $theme == 'frappe' {
+  $catppuccin-text: #c6d0f5;
+  $catppuccin-base: #303446;
+  $catppuccin-mantle: #292c3c;
+  $catppuccin-sapphire: #85c1dc;
+  $catppuccin-teal: #81c8be;
+  $catppuccin-lavender: #babbf1;
+  $catppuccin-sky: #99d1db;
+} @else if $theme == 'macchiato' {
+  $catppuccin-text: #cad3f5;
+  $catppuccin-base: #24273a;
+  $catppuccin-mantle: #1e2030;
+  $catppuccin-sapphire: #7dc4e4;
+  $catppuccin-teal: #8bd5ca;
+  $catppuccin-lavender: #b7bdf8;
+  $catppuccin-sky: #91d7e3;
+} @else if $theme == 'mocha' {
+  $catppuccin-text: #cdd6f4;
+  $catppuccin-base: #1e1e2e;
+  $catppuccin-mantle: #181825;
+  $catppuccin-sapphire: #74c7ec;
+  $catppuccin-teal: #94e2d5;
+  $catppuccin-lavender: #b4befe;
+  $catppuccin-sky: #89dceb;
+} @else {
+  @error "Unknown theme: #{$theme}. Available themes: latte, frappe, macchiato, mocha";
+}

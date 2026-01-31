@@ -20,3 +20,51 @@ html, body, .masthead, .greedy-nav, .page__footer {
     }
   }
 }
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  .greedy-nav {
+    flex-grow: 1;
+    padding-right: 3rem;
+
+    button {
+      right: 3rem;
+    }
+
+    .hidden-links {
+      right: 3rem;
+    }
+  }
+
+  #theme-toggle {
+    z-index: 20;
+
+    color: $catppuccin-text;
+    background-color: $catppuccin-base;
+
+    font-size: 1.2rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+
+    align-items: center;
+    justify-content: center;
+    
+    border: 1px solid $catppuccin-text;
+    border-radius: 50%;
+
+    transition: all 0.3s ease;
+    &:hover {
+      background-color: $catppuccin-mantle;
+      border-color: $catppuccin-sapphire;
+      color: $catppuccin-sapphire;
+    }
+  }
+}
