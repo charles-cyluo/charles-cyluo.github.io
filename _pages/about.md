@@ -12,7 +12,7 @@ redirect_from:
   </body>
 </html>
 
-I am a research intern at <a href='https://seed.bytedance.com'>ByteDance Seed</a> <a href='https://seed.bytedance.com/direction/robotics'>Robotics</a>.
+I have recently completed my research internship at <a href='https://seed.bytedance.com'>ByteDance Seed</a> <a href='https://seed.bytedance.com/direction/robotics'>Robotics</a>. Currently, I am looking for new internship opportunities.
 
 I received my bachelor's degree from the <a href='https://speit.sjtu.edu.cn/'>SJTU-Paris Elite Institute of Technology</a>, <a href='https://www.sjtu.edu.cn'>Shanghai Jiao Tong University</a>, majoring in French with a minor in Information Engineering.
 
@@ -25,7 +25,7 @@ Acknowledgements: Thanks to [Yue Su](https://selen-suyue.github.io/) for his ama
 
 News
 ---------------
-- **[Oct 2025]** I have joined ByteDance Seed Robotics as a research intern.
+- **[Feb 2026]** I have completed my internship at ByteDance Seed Robotics. Thanks to all colleagues for the wonderful experience!
 - **[Aug 2025]** *[GBC](https://sjtu-mvasl-robotics.github.io/gbc/)* is available on arXiv.
 - **[Aug 2025]** *[AnyPlace](https://any-place.github.io/)* has been accepted by CoRL 2025.
 - **[Jun 2025]** I received my bachelor's degree and was named Outstanding Graduate of Shanghai Jiao Tong University.
@@ -38,7 +38,7 @@ Experience
     <img src="assets/imgs/experiences/bytedance.png" alt="Seed logo" class="logo">
     <div class="info">
       <strong>ByteDance Seed</strong><br>
-      Oct 2025 - Now, Beijing<br>
+      Oct 2025 - Feb 2026, Beijing<br>
       Research Intern at <a href="https://seed.bytedance.com/"><em>Seed</em></a> <a href='https://seed.bytedance.com/direction/robotics'><em>Robotics</em></a>
     </div>
   </div>
@@ -122,12 +122,12 @@ Publications
 Awards
 --------
 
-**Scholarships**:
+**Honours**:
+- <span class="highlight">Outstanding Graduate</span>, Shanghai Jiao Tong University, June 2025
 - <span class="highlight">Academic Scholarship (First Prize)</span> (1/46), SJTU-Paris Elite Institute of Technology, November 2024
 - <span class="highlight">Dean's Scohlarship</span> (1/73), SJTU-Paris Elite Institute of Technology, September 2023
 
 **Awards**:
-- <span class="highlight">Outstanding Graduate</span>, Shanghai Jiao Tong University, 2025
 - <span class="highlight">Meritorious Winner</span> in COMAP's Mathematical Contest in Modeling, May 2023
 - <span class="highlight">Gold Medal</span> (rank 15/641) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Nanjing Site, December 2021
 - <span class="highlight">Gold Medal</span> (rank 13/632) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Shanghai Site, November 2021
