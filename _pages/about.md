@@ -12,11 +12,13 @@ redirect_from:
   </body>
 </html>
 
-I have recently completed my research internship at <a href='https://seed.bytedance.com'>ByteDance Seed</a> <a href='https://seed.bytedance.com/direction/robotics'>Robotics</a>. Currently, I am looking for new internship opportunities.
+I am an incoming Master of Science in Robotics student at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, starting in Fall 2026.
 
 I received my bachelor's degree from the <a href='https://speit.sjtu.edu.cn/'>SJTU-Paris Elite Institute of Technology</a>, <a href='https://www.sjtu.edu.cn'>Shanghai Jiao Tong University</a>, majoring in French with a minor in Information Engineering.
 
 During my undergraduate studies, I conducted research advised by <a href='https://www.mvig.org/'>Prof. Cewu Lu</a>, working on simulated and real-world grasp evaluation pipelines. I also worked remotely with <a href='https://www.pair.toronto.edu/'>PAIR Lab</a> under the supervision of <a href='https://animesh.garg.tech/'>Prof. Animesh Garg</a>, where I focused on simulation for robotic grasping and generalized object manipulation. Moreover, I completed my graduation thesis under supervision by <a href='https://robotics.sjtu.edu.cn/en/minglu/467.html'>Prof. Jun-Guo Lu</a>, working on reinforcement learning and behavior cloning for humanoid robot locomotion.
+
+After receiving my bachelor's degree, I completed internships at <a href="https://seed.bytedance.com/">ByteDance Seed Robotics</a> and <a href="https://www.agibot.com/">AGIBOT</a>. At ByteDance, I worked on scalable synthetic data generation and simulation evaluation for VLA policies, improving trajectory transformation and inverse kinematics for more efficient data generation. At AGIBOT, I built similar scalable synthetic data generation workflows for VLA policy training and developed VR teleoperation and intervention workflows for dexterous humanoid manipulation.
 
 My research interests include embodied intelligence and robotic manipulation.
 
@@ -25,6 +27,7 @@ Acknowledgements: Thanks to [Yue Su](https://selen-suyue.github.io/) for his ama
 
 News
 ---------------
+- **[Jul 2026]** I have completed my internship at AGIBOT. So grateful to the team for their support and everything I learned!
 - **[Feb 2026]** I have completed my internship at ByteDance Seed Robotics. Thanks to all colleagues for the wonderful experience!
 - **[Aug 2025]** *[GBC](https://sjtu-mvasl-robotics.github.io/gbc/)* is available on arXiv.
 - **[Aug 2025]** *[AnyPlace](https://any-place.github.io/)* has been accepted by CoRL 2025.
@@ -34,6 +37,15 @@ News
 Experience
 --------------
 <div class="experience-container">
+  <div class="card">
+    <img src="assets/imgs/experiences/AGIBOT.png" alt="AGIBOT logo" class="logo">
+    <div class="info">
+      <strong>AGIBOT</strong><br>
+      Mar 2026 - Jul 2026, Shanghai<br>
+      Embodied VLA Algorithm Intern at <a href="https://www.agibot.com/"><em>AGIBOT</em></a>
+    </div>
+  </div>
+
   <div class="card">
     <img src="assets/imgs/experiences/bytedance.png" alt="Seed logo" class="logo">
     <div class="info">
@@ -128,12 +140,7 @@ Awards
 - <span class="highlight">Dean's Scohlarship</span> (1/73), SJTU-Paris Elite Institute of Technology, September 2023
 
 **Awards**:
-- <span class="highlight">Meritorious Winner</span> in COMAP's Mathematical Contest in Modeling, May 2023
 - <span class="highlight">Gold Medal</span> (rank 15/641) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Nanjing Site, December 2021
 - <span class="highlight">Gold Medal</span> (rank 13/632) in 46th International Collegiate Programming Contest (ICPC) Asia Regional Contest Shanghai Site, November 2021
+- <span class="highlight">Gold Medal</span> (rank 7/240) in 7th China Collegiate Programming Contest (CCPC) Weihai Site, November 2021
 - <span class="highlight">Gold Medal</span> (rank 18) in CCF National Olympiad in Informatics Winter Camp (NOI WC), August 2020
-
-
-Projects
---------
-This section is incomplete.
