@@ -12,7 +12,7 @@ redirect_from:
   </body>
 </html>
 
-I am an incoming Master of Science in Robotics student at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, starting in Fall 2026.
+I am a first-year MSc in Robotics student at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> of <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, starting in Fall 2026.
 
 I received my bachelor's degree from the <a href='https://speit.sjtu.edu.cn/'>SJTU-Paris Elite Institute of Technology</a>, <a href='https://www.sjtu.edu.cn'>Shanghai Jiao Tong University</a>, majoring in French with a minor in Information Engineering.
 
@@ -38,10 +38,19 @@ Experience
 --------------
 <div class="experience-container">
   <div class="card">
+    <img src="assets/imgs/experiences/cmu.png" alt="CMU logo" class="logo">
+    <div class="info">
+      <strong>Carnegie Mellon University</strong><br>
+      Aug 2026 - Aug 2028, Pittsburgh, PA<br>
+      MSc in Robotics Student at <a href="https://www.cmu.edu/"><em>CMU</em></a> <a href="https://www.ri.cmu.edu/"><em>RI</em></a>
+    </div>
+  </div>
+
+  <div class="card">
     <img src="assets/imgs/experiences/AGIBOT.png" alt="AGIBOT logo" class="logo">
     <div class="info">
       <strong>AGIBOT</strong><br>
-      Mar 2026 - Jul 2026, Shanghai<br>
+      Mar 2026 - Jul 2026, Shanghai, China<br>
       Embodied VLA Algorithm Intern at <a href="https://www.agibot.com/"><em>AGIBOT</em></a>
     </div>
   </div>
@@ -50,7 +59,7 @@ Experience
     <img src="assets/imgs/experiences/bytedance.png" alt="Seed logo" class="logo">
     <div class="info">
       <strong>ByteDance Seed</strong><br>
-      Oct 2025 - Feb 2026, Beijing<br>
+      Oct 2025 - Feb 2026, Beijing, China<br>
       Research Intern at <a href="https://seed.bytedance.com/"><em>Seed</em></a> <a href='https://seed.bytedance.com/direction/robotics'><em>Robotics</em></a>
     </div>
   </div>
@@ -59,7 +68,7 @@ Experience
     <img src="assets/imgs/experiences/ABB_logo.svg" alt="HKU logo" class="logo">
     <div class="info">
       <strong>ABB</strong><br>
-      Jun 2024 - Aug 2024, Shanghai<br>
+      Jun 2024 - Aug 2024, Shanghai, China<br>
       Intern for Robot 3D Vision at <a href="https://www.abb.com/global"><em>ABB</em></a> <a href="https://www.abb.com/global/en/company/innovation/corporate-research-centers/"><em>Corporate Research Cetner</em></a>
     </div>
   </div>
@@ -68,7 +77,7 @@ Experience
     <img src="assets/imgs/experiences/SJTU.png" alt="SJTU logo" class="logo">
     <div class="info">
       <strong>Shanghai Jiao Tong University</strong><br>
-      Aug 2021 - June 2025, Shanghai
+      Aug 2021 - Jun 2025, Shanghai, China
       Undergraduate student and Outstanding Graduate of <a href="https://www.sjtu.edu.cn/"><em>SJTU</em></a>
     </div>
   </div>
