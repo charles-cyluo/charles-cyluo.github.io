@@ -96,7 +96,7 @@ Publications
       <a href="https://securitycfs.github.io/"><strong>Yifei Yao</strong></a>,
       <a href="https://charles-cyluo.github.io/" class="myself"><strong>Chengyuan Luo</strong></a>,
       <a href=""><strong>Jiaheng Du</strong></a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=6iFVV7YAAAAJ"><strong>Wentao He</strong></a>,
+      <a href="https://wthe2004.github.io/"><strong>Wentao He</strong></a>,
       <a href="https://robotics.sjtu.edu.cn/en/minglu/467.html"><strong>Jun-Guo Lu</strong></a>
     </i>
     <br>
